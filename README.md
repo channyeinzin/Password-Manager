@@ -10,9 +10,7 @@ This is a simple password manager application built using Python and Tkinter. It
 
 
 ## Project Demo
-Here is a walkthrough of user narratives:
-![Project Demo Gif](https://i.imgur.com/jEbxqp2.gif)
-
+![](https://imgur.com/a/AFtH8OJ)
 
 ## Usage
 
