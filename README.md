@@ -18,6 +18,3 @@ This is a simple password manager application built using Python and Tkinter. It
 ## Installation
 
 1. Ensure you have Python installed on your system.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/password-manager.git
