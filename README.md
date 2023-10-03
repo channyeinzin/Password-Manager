@@ -9,7 +9,7 @@ This is a simple password manager application built using Python and Tkinter. It
 - Easy-to-use graphical user interface (GUI) built with Tkinter.
 
 
-![Project Demo Gif](https://imgur.com/a/AFtH8OJ)
+![Project Demo Gif](https://imgur.com/sQHHlRv)
 
 
 ## Usage
