@@ -12,7 +12,7 @@ This is a simple password manager application built using Python and Tkinter. It
 
 Here is a walkthrough of user implement user narratives: !
 
-![alt text]([https://i.imgur.com/jEbxqp2.gif](https://imgur.com/a/AFtH8OJ))
+![alt text][https://i.imgur.com/jEbxqp2.gif](https://imgur.com/a/AFtH8OJ)
 
 ## Usage
 
