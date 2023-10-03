@@ -8,7 +8,7 @@ This is a simple password manager application built using Python and Tkinter. It
 - Save passwords along with website and username information.
 - Easy-to-use graphical user interface (GUI) built with Tkinter.
 
-<img width="550" alt="password_manager" src="https://github.com/channyeinzin/Password-Manager/assets/74475228/bef04149-b9ec-4dbc-9c13-3cc99f6cd54e">
+<img width="550" alt="password_manager" src="https://github.com/channyeinzin/Password-Manager/assets/74475228/5ad05fbf-8136-4e0e-8d9f-950e2b3ad6e8">
 
 ## Usage
 
